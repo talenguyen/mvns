@@ -1,6 +1,9 @@
 # mvns
 Quick and easy Maven Central Repository Search
 
+## use cases
+ - My use case is find library and its latest version from command line instead of open browser to search for it.
+
 ## install
 
 > $ npm install -g mvns
