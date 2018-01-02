@@ -1,0 +1,17 @@
+{
+  "name": "mvns",
+  "version": "1.0.0",
+  "description": "mvn repository search",
+  "main": "index.js",
+  "repository": "https://github.com/talenguyen/mvns",
+  "author": "Giang Nguyen",
+  "license": "Apache-2.0",
+  "private": false,
+  "dependencies": {
+    "commander": "^2.12.2",
+    "node-fetch": "^1.7.3"
+  },
+  "bin": {
+    "mvns": "./index.js"
+  }
+}
